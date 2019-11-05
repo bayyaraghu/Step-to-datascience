@@ -20,3 +20,8 @@ Manipulating pandas DataFrames
 4. Building Models
 5. Visualization
 6 Standard and best pratice to use pandas
+
+You'll experience :
+
+1. Importing flat files in a streightforward manner
+2. Importing flat files with issues such as comments and missing values
