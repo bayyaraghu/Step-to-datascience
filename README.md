@@ -11,3 +11,12 @@ Pandas and the DataFrame
 what problem does pandas solve?
 
 Python has long been greate for data munging and prepration, but less so for data analysis and modeling. Pandas helps fill this gap, enabling you to carry out your entire data analysis workflow in python without having to switch to a more domain specific language like R.
+
+Manipulating pandas DataFrames
+
+1. Exploratory data analysis
+2. Data Wrangling
+3. Data Preprocessing
+4. Building Models
+5. Visualization
+6 Standard and best pratice to use pandas
