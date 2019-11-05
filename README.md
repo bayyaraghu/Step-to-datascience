@@ -25,3 +25,19 @@ You'll experience :
 
 1. Importing flat files in a streightforward manner
 2. Importing flat files with issues such as comments and missing values
+
+Pickled files (know more about it ..........)
+
+SAS FILES Used for
+1. Advanced analytics
+2. Multivariate analysis
+3. Business intelligence
+4. Data management
+5. Predictive analytics, standard for computational analysis 
+
+IMPORTING HDF5 file------------
+
+1. Hierarchical Data Format version 5
+2. Standard for storing large quantities
+3. Datasets can be hundred of gigabytes or terabytes
+4. HDF5 can scale to exabytes
