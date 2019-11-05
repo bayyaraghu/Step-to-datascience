@@ -41,3 +41,12 @@ IMPORTING HDF5 file------------
 2. Standard for storing large quantities
 3. Datasets can be hundred of gigabytes or terabytes
 4. HDF5 can scale to exabytes
+
+MATLAB ---------------- Matrix laboratory-industry standard in engineering and science
+
+SciPy to the rescue
+scipy.io.loadmat() - read.mat files
+scipy.io.savemat() - write.mat files
+
+Keys = MATLAB variable names
+Values = objects assigned to variales
