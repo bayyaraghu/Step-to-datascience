@@ -35,3 +35,9 @@ SAS FILES Used for
 4. Data management
 5. Predictive analytics, standard for computational analysis 
 
+IMPORTING HDF5 file------------
+
+1. Hierarchical Data Format version 5
+2. Standard for storing large quantities
+3. Datasets can be hundred of gigabytes or terabytes
+4. HDF5 can scale to exabytes
